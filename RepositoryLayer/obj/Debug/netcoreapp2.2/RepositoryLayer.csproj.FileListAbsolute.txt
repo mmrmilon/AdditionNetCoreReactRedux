@@ -1,0 +1,16 @@
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\RepositoryLayer.deps.json
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\RepositoryLayer.dll
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.csprojAssemblyReference.cache
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.AssemblyInfoInputs.cache
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.AssemblyInfo.cs
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\RepositoryLayer.pdb
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\DomainLayer.dll
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.dll
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.dll
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\DomainLayer.pdb
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.xml
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.xml
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.csproj.CopyComplete
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.dll
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\RepositoryLayer\obj\Debug\netcoreapp2.2\RepositoryLayer.pdb

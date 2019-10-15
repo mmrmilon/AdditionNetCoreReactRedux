@@ -1,0 +1,16 @@
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID('Users'))
+BEGIN
+	CREATE TABLE [dbo].[Users]
+	(
+		[Id] BIGINT IDENTITY(1,1) NOT NULL,  
+		[UserName] VARCHAR(256) NOT NULL, 	
+		[IsActive] BIT NOT NULL DEFAULT 1,	
+		[CreatedOn] DATETIME NOT NULL DEFAULT GETDATE(),
+		CONSTRAINT PK_Users_Id PRIMARY KEY CLUSTERED (Id),
+		CONSTRAINT UK_Users_UserName UNIQUE (UserName)
+	)
+END
+GO
+
+
+

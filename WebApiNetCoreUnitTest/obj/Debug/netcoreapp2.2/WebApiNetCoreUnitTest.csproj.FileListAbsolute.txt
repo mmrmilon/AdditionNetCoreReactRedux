@@ -18,3 +18,6 @@ C:\PROJECTS\Sum2BigNumNetCoreReactRedux\WebApiNetCoreUnitTest\obj\Debug\netcorea
 C:\PROJECTS\Sum2BigNumNetCoreReactRedux\WebApiNetCoreUnitTest\obj\Debug\netcoreapp2.2\WebApiNetCoreUnitTest.AssemblyInfoInputs.cache
 C:\PROJECTS\Sum2BigNumNetCoreReactRedux\WebApiNetCoreUnitTest\obj\Debug\netcoreapp2.2\WebApiNetCoreUnitTest.AssemblyInfo.cs
 C:\PROJECTS\Sum2BigNumNetCoreReactRedux\WebApiNetCoreUnitTest\obj\Debug\netcoreapp2.2\WebApiNetCoreUnitTest.csproj.CopyComplete
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\WebApiNetCoreUnitTest\bin\Debug\netcoreapp2.2\WebApiNetCoreUnitTest.pdb
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\WebApiNetCoreUnitTest\obj\Debug\netcoreapp2.2\WebApiNetCoreUnitTest.dll
+C:\PROJECTS\Sum2BigNumNetCoreReactRedux\WebApiNetCoreUnitTest\obj\Debug\netcoreapp2.2\WebApiNetCoreUnitTest.pdb

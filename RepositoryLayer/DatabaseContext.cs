@@ -11,6 +11,16 @@ namespace RepositoryLayer
         {
         }
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+
+            builder.Entity<Users>(user =>
+            {
+                user.HasIndex(x => x.UserName).IsUnique(true);
+            });
+        }
+
         public DbSet<Users> Users { get; set; }
 
         public DbSet<Calculations> Calculations { get; set; }

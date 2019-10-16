@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace DomainLayer.Entities
@@ -14,5 +15,7 @@ namespace DomainLayer.Entities
 
         [Required]
         public bool IsActive { get; set; }
+
+        public ICollection<Calculations> Calculations { get; set; }
     }
 }
